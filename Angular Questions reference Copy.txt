@@ -1,0 +1,107 @@
+
+Angular 
+What is change detection in angular 
+What is view encapsulation in angular
+What is decorator and wt r the types 
+What is forkjoin 
+What are difference between merge map , concat map and switch map 
+What is difference between observable and observer
+What is ng template and ng content 
+Wt r the directives and  types?
+Wt is pipe and impure and pure pipes
+
+
+Angular2 Questions and Answers:
+
+1.what are the new features of Angular2? 
+Answer:Angular 2 is high performance — it minimizes the load time of your pages.  
+       Angular 2 is Entirely Component Based
+       Directives
+       Dependency Injection
+       Used of TypeScript
+       Used of Lambdas or Arrow functions
+       Generics
+       Forms and Validations
+
+2.Difference between Angular 1 & 2?
+Answer:Angular 1.x Controllers are gone in Angular v2. We can say that Controllers are replaced with “Components” in Angular 2.
+              Lot of performances issues with angular1 like digest cycle,rootscope.with Angular2 lot of adavantages like lazy loading ,AOT compiler.
+
+
+Angualar4 Questions Questions and Answers:
+
+1.What is Angular CLI? 
+  Answer: How to Update Angular CLI?(CLI -command line interface through this command we can create angular scafflod project,npm update angular-cli -g)
+
+2. What are the features of Angular4?
+Answer:ng if else is introduced in template.
+
+
+JavaScript Questions and Answers:
+1. How many ways to create object in JavaScript :
+
+Answer:four way (Object literal,new object,object.create,function constrctor)
+
+2. What is JavaScript and what is the difference between JavaScript and TypeScript
+
+Answer:Type is super set of javascript,type script suports oops concepts.
+
+Angular2 Questions
+1.what are the new features of Angular2?
+2. Difference between Angular 1 & 2
+
+Angualar4 Questions
+1.What is Angular CLI?How to Update Angular CLI?
+
+JavaScript:
+1. How many ways to create object in JavaScript 
+2. What is JavaScript and what is the difference between JavaScript and TypeScript
+
+-------------------------------------------------
+Angular
+
+AngularJS Questions
+1. what are all core features of AngularJs?
+2. What is scope in AngularJs ?What is the Use Of Scope?
+3. why do we use $timeout and $inetrval in Angular instead of default functions?
+4. what is the difference between factory and service in AngularJs?
+
+Angular2 Questions
+1.what are the new features of Angular2?
+2.what is Typescript? What is the need for it in Angular2?
+3.What are Event Emitters in Angular2?
+4.Explain About Data Binding in Angular2?
+5.Explain about Event Binding in Angular2?
+
+Angualar4 Questions
+1.Explain Component decorators in Angular4?
+2.What is Angular CLI?How to Update Angular CLI?
+3.What are the features of Angular4?
+4.What are the Directives used in Angular4?
+5.What is the Different Between Directive And Component in Angular4? 
+
+Angular 
+What is change detection in angular 
+What is view encapsulation in angular
+What is decorator and what are the types 
+What is forkjoin 
+What are difference between merge map , concat map and switch map 
+What is difference between observable and observer
+What is ng template and ng content 
+Wt r the directives and  types?
+Wt is pipe and impure and pure pipes
+
+
+Angular 2&4:
+Explain the life cycle hooks of Angular 2 application ?
+How routing works in Angular 2.
+What are Event Emitters and how it works in Angular 2?
+What is lazy loading and How to enable lazy loading in angular 2?
+How to Set Http Request Header in Angular 4?
+What’s New Angular 4 Router?
+How To handle and retry the failed request due to Poor Network Connection in Angular 4?
+How to Implement Http Cache using Interceptors in Angular 4?
+Decorators
+Http and Https
+
+
